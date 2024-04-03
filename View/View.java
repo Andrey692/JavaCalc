@@ -22,7 +22,7 @@ public class View {
     // // * @return - номер операции
     // // */
     public int getChoice() {
-        System.out.println("Choice operation:");
+        System.out.println("Выберите операцию:");
         System.out.println("\t1. Сумма");
         System.out.println("\t2. Умножение");
         System.out.println("\t3. Деление");
